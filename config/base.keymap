@@ -7,7 +7,7 @@
 #else
     #define _BT_SEL_KEYS_ &trans &trans &trans &trans &trans
 #endif
-
+jfjkjljjjjjjjjjjjjasdf'lkjJJJJ
 #include "zmk-helpers/helper.h"
 #include "zmk-helpers/unicode-chars/greek.dtsi"
 #include "zmk-helpers/unicode-chars/german.dtsi"
@@ -228,7 +228,7 @@ ZMK_LAYER(base,
 //├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤
     X_LB     &kp Z         &kp X         &kp C         &kp V         &kp B           X_MB     &kp N         &kp M         &comma_morph  &dot_morph    &qexcl          X_RB
 //├──────┤ ╰─────────────┼─────────────┴─────────────┼─────────────┼─────────────┤ ├──────┤ ├─────────────┼─────────────┼─────────────┴───────────────────────────╯ ├──────┤
-    X_LH                                               SMART_NUM     &lt FN RET      X_MH     &lt_spc NAV  &smart_shft                                               X_RH
+    X_LH                                               SMART_NUM     &lt FN RET      X_MH     &lt_spc NAV 0  &smart_shft                                               X_RH
 //╰──────╯                                           ╰─────────────┴─────────────╯ ╰──────╯ ╰─────────────┴─────────────╯                                           ╰──────╯
 )
 
